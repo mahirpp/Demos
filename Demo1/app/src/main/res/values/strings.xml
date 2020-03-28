@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Demo1</string>
+    <string name="i_am_rich">I am Rich and its a local branch created from android studio</string>
+</resources>
