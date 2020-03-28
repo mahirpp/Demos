@@ -1,4 +1,4 @@
 <resources>
     <string name="app_name">Demo1</string>
-    <string name="i_am_rich">I am Rich!!!!!</string>
+    <string name="i_am_rich">I am Rich and this is a new feature branch</string>
 </resources>
